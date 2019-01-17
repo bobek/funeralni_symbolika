@@ -1,11 +1,11 @@
 = {title}
 
-(C) {revyear} {author}. Version {revnumber}. 
+(C) {revyear} {author}. Version {revnumber}.
 
 Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/[Attribution-NonCommercial-ShareAlike 4.0 International].
 
 image::by-nc-sa.png[cc-by-nc-sa, 100]
 
-Published by {author}. First published at: [X](http://x).                                                  
+Published by {author}. First published at: https://www.bobek.cz/funeralni-symbolika/.
 
 ISBN: XXX-X-XXX-XXXXX-X
