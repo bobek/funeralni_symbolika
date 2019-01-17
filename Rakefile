@@ -9,7 +9,7 @@ params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_
 namespace :book do
   namespace :build do
     desc 'build all versions of the book'
-    task :all => [:html, :epub, :mobi, :pdf]
+    task :all => [:html, :epub, :mobi, :pdf, :rename]
 
     desc 'build html version of the book'
     task :html do
@@ -34,6 +34,15 @@ namespace :book do
       puts "Converting to PDF... (this one takes a while)"
       `bundle exec asciidoctor-pdf --trace #{params}  -r './styles/pdf/pdf-extensions.rb' -a pdfmarks -a media=screen #{source}`
       # `bundle exec asciidoctor-pdf --trace #{params}  -a pdfmarks -a media=screen #{source}`
+    end
+
+    desc 'rename generated files to something nicer'
+    task :rename do
+      Dir.glob(File.join('out', 'index*')) do |f|
+        new = f.gsub(/index/, 'funeralni_symbolika_v_pohadkach_a_mytech').gsub(/-kf8\.epub/, '.mobi')
+        puts("#{f} -> #{new}")
+        File.rename(f, new)
+      end
     end
   end
 end
