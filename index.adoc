@@ -1,0 +1,54 @@
+:title: Funerální symbolika v pohádkách a mýtech
+:author: Králová Jaroslava
+:email:  symbolika@bobek.cz
+:revnumber: 1.0
+:revdate: {docdate}
+:revyear: 2019
+:subject: Funerální symbolika v pohádkách a mýtech
+:keywords: symboly, pohádky, příběhy
+:doctype: book
+:media: screen
+:front-cover-image: image:cover.png[Front Cover,1050,1600]
+:toc: left
+:toclevels: 2
+:toc-title: Obsah
+:numbered:
+:idprefix:
+:idseparator: -
+:seclink:
+:secanchors:
+:title-separator: {sp}|
+:icons: font
+:lang: cs
+:language: javadocript
+:experimental:
+:pdf-fontsdir: ./styles/pdf/fonts
+:pdf-stylesdir: ./styles/pdf
+:pdf-style: infoq-screen
+// ifndef::ebook-format[:leveloffset: 1]
+:leveloffset: 1
+// = {title}
+
+[colophon#colophon%nonfacing]
+include::chapters/colophon.adoc[]
+
+[preface]
+include::chapters/annotation.adoc[]
+
+include::chapters/uvod.adoc[]
+
+include::chapters/smrt.adoc[]
+
+include::chapters/kvetiny.adoc[]
+
+include::chapters/stromy.adoc[]
+
+include::chapters/zaver.adoc[]
+
+include::chapters/zdroje.adoc[]
+
+
+//ifdef::backend-pdf,backend-docbook[]
+//[index]
+//== Index
+//endif::[]s
