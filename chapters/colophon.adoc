@@ -4,13 +4,7 @@
 
 Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/[Attribution-NonCommercial-ShareAlike 4.0 International].
 
-ifeval::["{basebackend}" != "html"]
 image::by-nc-sa.png[cc-by-nc-sa, 100]
-endif::[]
-
-ifeval::["{backend}" == "html5"]
-image::https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png[cc-by-nc-sa, 88]
-endif::[]
 
 Published by {author}. First published at: https://www.bobek.cz/funeralni-symbolika/.
 
