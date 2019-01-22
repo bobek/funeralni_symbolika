@@ -1,6 +1,15 @@
 require 'asciidoctor-pdf' unless defined? ::Asciidoctor::Pdf
 
 module AsciidoctorPdfExtensions
+
+  def convert_image node, opts = {}
+    if node.roles.include?("foto")
+      start_new_page unless at_page_top?
+      move_down 240
+    end
+    super
+  end
+
   # Override the built-in layout_toc to move colophon before front of table of contents
   # NOTE we assume that the colophon fits on a single page
   def layout_toc doc, num_levels = 2, toc_page_number = 2, num_front_matter_pages = 0

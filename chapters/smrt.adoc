@@ -11,11 +11,23 @@ Hledal a neustále hledá na ni odpověď.
 
 include::smrt-jak_prisla.adoc[]
 
+image::20161125-160618_0046.jpg[role=foto]
+
+<<<
 include::smrt-zivot.adoc[]
 
+image::20080629-133612_8604.jpg[role=foto]
+
+<<<
 include::smrt-svatky.adoc[]
 
+image::20090805-085644_5876.jpg[role=foto]
+
+<<<
 include::smrt-hrbitovy.adoc[]
 
+image::20070204-125153_3168.jpg[role=foto]
+
+<<<
 include::smrt-flora.adoc[]
 

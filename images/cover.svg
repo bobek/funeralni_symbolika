@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -15,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="conver.svg"
+   sodipodi:docname="cover.svg"
    inkscape:export-filename="/tmp/bitmap.png"
    inkscape:export-xdpi="100.016"
    inkscape:export-ydpi="100.016">
@@ -28,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-130"
-     inkscape:cy="554.28571"
+     inkscape:zoom="0.7"
+     inkscape:cx="-24.831021"
+     inkscape:cy="471.30504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,47 +56,64 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <image
+       sodipodi:absref="/home/bobek/Sources/bobek.cz/funeralni_symbolika/images/20161125-160618_0046_orig.jpg"
+       xlink:href="20161125-160618_0046_orig.jpg"
+       y="0.06190636"
+       x="-99.936882"
+       id="image894"
+       preserveAspectRatio="none"
+       height="299.05475"
+       width="448.58212" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;line-height:11.6569519px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46627805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="104.98179"
-       y="81.028923"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;line-height:11.6569519px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:0.46627805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.0920644"
+       y="109.3595"
        id="text4544"><tspan
          sodipodi:role="line"
-         id="tspan4542"
-         x="107.0946"
-         y="81.028923"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px">Funerální symbolika </tspan><tspan
+         id="tspan901"
+         x="6.0920644"
+         y="109.3595">Funerální symbolika</tspan><tspan
          sodipodi:role="line"
-         x="104.98179"
-         y="92.685875"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px"
-         id="tspan4546" /><tspan
+         id="tspan903"
+         x="6.0920644"
+         y="121.01645" /><tspan
          sodipodi:role="line"
-         x="104.98179"
-         y="104.34283"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px"
-         id="tspan4548">v</tspan><tspan
-         sodipodi:role="line"
-         x="104.98179"
-         y="115.99978"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px"
-         id="tspan4550" /><tspan
-         sodipodi:role="line"
-         x="104.98179"
-         y="127.65673"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px"
-         id="tspan4552">pohádkách a mýtech</tspan></text>
+         id="tspan905"
+         x="6.0920644"
+         y="132.6734">v pohádkách a mýtech</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.36554625;stroke:none;stroke-width:1.15419698;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect821-9"
+       width="229.43155"
+       height="35.52977"
+       x="-9.4494066"
+       y="230.92084" />
     <text
        id="text4564"
-       y="226.92773"
-       x="105.6466"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.65112305px;line-height:11.6569519px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46627805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="254.98317"
+       x="71.195137"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.65100861px;line-height:11.6569519px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.46627805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4562"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.65112305px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.46627805px"
-         y="226.92773"
-         x="105.6466"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.65100861px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.46627805px"
+         y="254.98317"
+         x="71.195137"
          sodipodi:role="line">Jaroslava Králová</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:0.36554625;stroke:none;stroke-width:3.20000005;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect821"
+       width="210.91072"
+       height="297.08929"
+       x="-0.75595242"
+       y="0.66666663" />
   </g>
 </svg>

@@ -8,7 +8,7 @@
 :keywords: symboly, pohádky, příběhy
 :doctype: book
 :media: screen
-:front-cover-image: image:cover.png[Front Cover,1050,1600]
+:front-cover-image: image:cover.jpg[Front Cover,1050,1600]
 :toc: left
 :toclevels: 2
 :toc-title: Obsah
@@ -29,6 +29,10 @@
 :leveloffset: 1
 // = {title}
 
+ifeval::["{backend}" == "html5"]
+image:cover.jpg[]
+endif::[]
+
 [colophon#colophon%nonfacing]
 include::chapters/colophon.adoc[]
 
@@ -37,13 +41,23 @@ include::chapters/annotation.adoc[]
 
 include::chapters/uvod.adoc[]
 
+image::20161125-165519_0104.jpg[role=foto]
+
 include::chapters/smrt.adoc[]
+
+image::20161126-122015_0854.jpg[role=foto]
 
 include::chapters/kvetiny.adoc[]
 
+image::20161126-063644_0317.jpg[role=foto]
+
 include::chapters/stromy.adoc[]
 
+image::20161126-063853_0321.jpg[role=foto]
+
 include::chapters/zaver.adoc[]
+
+image::20070205-204037_3293.jpg[role=foto]
 
 include::chapters/zdroje.adoc[]
 
