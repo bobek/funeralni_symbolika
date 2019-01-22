@@ -14,4 +14,7 @@ endif::[]
 
 Published by {author}. First published at: https://www.bobek.cz/funeralni-symbolika/.
 
-ISBN: XXX-X-XXX-XXXXX-X
+ISBN 978-80-270-5368-1 (html) +
+ISBN 978-80-270-5369-8 (pdf) +
+ISBN 978-80-270-5370-4 (ePub) +
+ISBN 978-80-270-5371-1 (Mobipocket)
