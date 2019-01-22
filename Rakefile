@@ -43,6 +43,8 @@ namespace :book do
         puts("#{f} -> #{new}")
         File.rename(f, new)
       end
+
+      FileUtils.cp_r('images', 'out', verbose: true)
     end
   end
 end
